@@ -1,9 +1,5 @@
-# TODO: Write some shit here
+# OpenGL experiment
 
-## Idea
+Displays a mesh. Makes mesh faces smoothely elevate up along the normals under the mouse.
 
-Display a mesh. Make mesh faces smoothely fly up along the normals under the mouse.
-
-## Tasks
-
-- [ ] Everything exports models with vertex indices nowadays (everything == Blender). Incorporate them into rendering.
+![alt text](simplescreenrecorder-2024-09-29_19.54.17.gif)
